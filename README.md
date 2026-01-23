@@ -10,12 +10,12 @@ We have tested the software and it runs natively on Windows 11 (10 untested), Ma
 
 * Install [Git](https://git-scm.com) (if you don't already have it).
 * Install [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) (the precise version doesn't matter, but the code has been tested on Python 3.8 and above). Instructions for different operating system setups are provided.
-
+* Install [Ghostscript](https://ghostscript.com/index.html). For Windows, use the [64-bit binary AGPL release](https://ghostscript.com/releases/gsdnld.html). For Mac, use home brew and run ``brew install ghostscript``. For Linux, use ``apt install ghostscript``, ``snap install code --classic`` (or your preferred package manager).
 In addition we highly recommend using Visual Studio code:
 
 * Download [Visual Studio Code](https://code.visualstudio.com/), an easy-to-use editor.
 * Install the [Python Plugin](https://code.visualstudio.com/docs/python/python-tutorial/) and test the hello world example.
-* * Install [Ghostscript](https://ghostscript.com/index.html). For Windows, use the [64-bit binary AGPL release](https://ghostscript.com/releases/gsdnld.html). For Mac, use home brew and run ``brew install ghostscript``. For Linux, use ``apt install ghostscript``, ``snap install code --classic`` (or your preferred package manager).
+
 
 ## Install software to support this module and setup the virtual environment
 
